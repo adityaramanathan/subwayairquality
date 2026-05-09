@@ -1,0 +1,10 @@
+NYC scenario higher than Boston scenario,NYC station,NYC wait_min,NYC EDF,Boston scenario,Boston wait_min,Boston EDF
+"NYC 181st St, 5 min",181st St,5.0,4.3165,Boston mean wait,3.9006,1.8353
+"NYC 181st St, 5 min",181st St,5.0,4.3165,Boston P75 wait,4.8667,2.2898
+"NYC 181st St, 5 min",181st St,5.0,4.3165,Boston P90 wait,6.35,2.9877
+"NYC 181st St, 10 min",181st St,10.0,8.6331,Boston mean wait,3.9006,1.8353
+"NYC 181st St, 10 min",181st St,10.0,8.6331,Boston P75 wait,4.8667,2.2898
+"NYC 181st St, 10 min",181st St,10.0,8.6331,Boston P90 wait,6.35,2.9877
+"NYC 181st St, 20 min",181st St,20.0,17.2662,Boston mean wait,3.9006,1.8353
+"NYC 181st St, 20 min",181st St,20.0,17.2662,Boston P75 wait,4.8667,2.2898
+"NYC 181st St, 20 min",181st St,20.0,17.2662,Boston P90 wait,6.35,2.9877

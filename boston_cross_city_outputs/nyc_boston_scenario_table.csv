@@ -1,0 +1,11 @@
+scenario,city,station,concentration,wait_min,dose_ug,EDF
+NYC reference / system mean,NYC,system mean,139,5.0,6.95,1.0
+"NYC low station, long wait",NYC,low/Q1 station,96,20.0,19.2,2.7626
+"NYC Broadway-Lafayette, 5 min",NYC,Broadway-Lafayette,208,5.0,10.4,1.4964
+"NYC West 4th St, 5 min",NYC,West 4th St,207,5.0,10.35,1.4892
+"NYC 181st St, 5 min",NYC,181st St,600,5.0,30.0,4.3165
+"NYC 181st St, 10 min",NYC,181st St,600,10.0,60.0,8.6331
+"NYC 181st St, 20 min",NYC,181st St,600,20.0,120.0,17.2662
+Boston mean wait,Boston,underground platforms,327,3.9006,12.7551,1.8353
+Boston P75 wait,Boston,underground platforms,327,4.8667,15.914,2.2898
+Boston P90 wait,Boston,underground platforms,327,6.35,20.7645,2.9877

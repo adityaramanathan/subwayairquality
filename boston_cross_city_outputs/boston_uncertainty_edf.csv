@@ -1,0 +1,10 @@
+scenario,band,concentration_ug_m3,wait_min,dose_ug,EDF
+Boston mean wait,low: mean-SD,191,3.9006,7.4502,1.072
+Boston mean wait,mid: mean,327,3.9006,12.7551,1.8353
+Boston mean wait,high: mean+SD,463,3.9006,18.0599,2.5985
+Boston P75 wait,low: mean-SD,191,4.8667,9.2953,1.3375
+Boston P75 wait,mid: mean,327,4.8667,15.914,2.2898
+Boston P75 wait,high: mean+SD,463,4.8667,22.5327,3.2421
+Boston P90 wait,low: mean-SD,191,6.35,12.1285,1.7451
+Boston P90 wait,mid: mean,327,6.35,20.7645,2.9877
+Boston P90 wait,high: mean+SD,463,6.35,29.4005,4.2303
