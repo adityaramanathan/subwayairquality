@@ -13,6 +13,10 @@ import argparse
 # This keeps the same functionality as the other file, but is written in a
 # simpler EDA-style layout.
 
+# Data:
+# https://gis.data.mass.gov/datasets/84c9d171d32945f594fbb4d889153c44/about
+# https://mbta-massdot.opendata.arcgis.com/datasets/ccb2941254944803bbd4e2df58e09906/about
+
 # Usage: python boston_mbta_cross_city.py --data-dir mbta_data
 
 # Constants
